@@ -8,10 +8,6 @@ This project implements an imitation learning model using Long Short-Term Memory
   
 - `imitation-learning.ipynb`: Main notebook for developing the imitation learning model. This includes data preprocessing, model architecture definition, training, evaluation, and plotting the results.
 
-- `flights/`: Directory containing the original flight data files. Each file represents a set of state-action pairs collected from flight simulations.
-
-- `adjusted_flights/`: Directory containing preprocessed flight data files. The data in these files has been cleaned and adjusted for input into the LSTM model.
-
 - `metrics/`: Directory where cross-validation metrics and overall model performance metrics are stored as CSV files. These metrics include mean squared error (MSE), root mean squared error (RMSE), mean absolute error (MAE), and R² scores, among others.
 
 - `models/`: Directory where trained models are saved. The models are saved in `.keras` format, with different models saved for each fold of cross-validation.
