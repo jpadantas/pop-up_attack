@@ -1,5 +1,8 @@
 # Autonomous Pop-Up Attack Maneuvers Using Imitation Learning
 
+> **Paper, PDF and citation:** [joaopadantas.com/publications/dantas2024autonomous](https://www.joaopadantas.com/publications/dantas2024autonomous/)
+
+
 This project implements an imitation learning model using Long Short-Term Memory (LSTM) networks to predict aircraft control inputs during complex maneuvers, specifically focusing on pop-up attack maneuvers. The project is structured to include data preprocessing, model training, evaluation, and visualization of the results.
 
 ## Project Structure
